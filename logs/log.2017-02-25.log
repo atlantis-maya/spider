@@ -1,0 +1,19 @@
+2017-02-25 13:09:11 [util.log.LogUtil]-[INFO] [main] (UtilLog.java:18) ->hello world
+2017-02-25 15:59:55 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果0
+2017-02-25 16:02:02 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果0
+2017-02-25 16:03:39 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果0
+2017-02-25 16:09:22 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果1
+2017-02-25 16:11:24 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果1
+2017-02-25 16:14:20 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果1
+2017-02-25 16:16:17 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果1
+2017-02-25 16:18:06 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果1
+2017-02-25 16:19:23 [util.log.LogUtil]-[INFO] [main] (LogUtils.java:23) ->匹配计数结果1
+2017-02-25 16:38:49 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->匹配计数结果1 
+2017-02-25 16:38:49 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果84461376 
+2017-02-25 16:46:55 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果84461376 
+2017-02-25 19:45:22 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果84461376 
+2017-02-25 19:51:33 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果order 
+2017-02-25 19:58:01 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果true 
+2017-02-25 19:58:38 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果false 
+2017-02-25 20:12:46 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果order 
+2017-02-25 20:14:03 [util.log.LogUtil]-[INFO] [main] (LogUtil.java:23) ->经过正则表达式匹配后的结果This order was 
