@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
  * Created by 朱赫 Email: zhuhe.6@163.com
  * Date:2016/12/20 in 23:04.
  * version:jdk 1.8.
+ * 这个类是官网上的教程，需要好好看看
  */
 
 public class Wombat {
