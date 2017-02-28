@@ -12,6 +12,8 @@ public class GsonObjectUtil {
     private GsonObjectUtil(){
 
     }
+
+
 //
 //    public static T modelByString(String jsonString, Class T) {
 //

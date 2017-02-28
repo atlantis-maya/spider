@@ -46,12 +46,6 @@ public class RegexTest {
         String regex = "qq(.*?)qq";
         int[] groups = {};
         List<String[]> groupsResult = RegexUtil.matchGroupsListByRegex(input, regex, groups);
-//        for (int i = 0; i<groupsResult.size(); i++){
-//            String [] result = groupsResult.get(i);
-//           for (int j=0 ;j< result.length;j++){
-//
-//           }
-//        }
         for (String[] result : groupsResult) {
             for (String temp : result) {
                 LogUtil.logInfo(temp);

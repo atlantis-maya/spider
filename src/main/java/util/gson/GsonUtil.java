@@ -17,6 +17,11 @@ public class GsonUtil {
         return new Gson();
     }
 
+    /**
+     * 将json格式的字符串转换为jsonObject对象
+     * @param json
+     * @return
+     */
     public static JsonObject parseObject(String json) {
         if (StringUtils.isEmpty(json)) {
             return null;
@@ -24,6 +29,11 @@ public class GsonUtil {
         return new JsonParser().parse(json).getAsJsonObject();
     }
 
+    /**
+     * 将java对象转换为json字符串
+     * @param object
+     * @return
+     */
     public static String jsonString(JsonObject object) {
         if (object == null) {
             return null;
